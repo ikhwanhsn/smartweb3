@@ -5,7 +5,7 @@ const ButtonForBusiness = () => {
     return ( 
         <div className="">
             {/* Open the modal using ID.showModal() method */}
-            <button className="w-40 px-5 py-3 mt-3 text-blue-500 border-2 border-blue-500 rounded-full hover:text-white hover:bg-blue-500" onClick={()=>window.my_modal_3.showModal()}>For Business</button>
+            <button className="w-40 px-5 py-3 mt-3 text-blue-500 border-2 border-blue-500 rounded-full hover:text-white hover:bg-blue-500" onClick={()=>window.my_modal_3.showModal()}>☎️For Business</button>
             <dialog id="my_modal_3" className="modal">
                 <form method="dialog" className="flex flex-col gap-3 modal-box">
                     <div className="flex items-center justify-center mb-1 text-2xl font-bold">
