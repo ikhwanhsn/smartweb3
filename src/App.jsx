@@ -14,7 +14,7 @@ function App() {
       <ProfilImage/>
       <ProfilDesc/>
       <Button 
-      href={'https://t.me/smartweb3_id'} 
+      href={'https://t.me/SmartWeb3ID'} 
       style={'w-40 md:w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600'}
       >Telegram Group</Button>
       <Button

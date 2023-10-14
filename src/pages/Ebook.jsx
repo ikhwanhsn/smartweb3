@@ -7,7 +7,7 @@ const Ebook = () => {
         <div className="">
             <NavbarEbook/>
             <div className="grid grid-cols-3 gap-3 m-3">
-                <CardEbook src={freeCrypto} href={'https://t.me/smartweb3_id/55'}/>
+                <CardEbook src={freeCrypto} href={'https://t.me/SmartWeb3ID/5'}/>
                 <CardEbook/>
                 <CardEbook/>
                 <CardEbook/>
