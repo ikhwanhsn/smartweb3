@@ -17,14 +17,6 @@ function App() {
       href={'https://t.me/SmartWeb3ID'} 
       style={'w-40 md:w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600'}
       >Telegram Group</Button>
-      <Button
-      href={'https://t.me/+GhP1jMpDfCo1ZGVl'}
-      style={'w-40 md:w-64 px-5 py-3 mt-3 text-blue-500 border-2 border-blue-500 rounded-full hover:text-white hover:bg-blue-500'}
-      >Make Money💰</Button>
-      <Button
-      href={'https://shope.ee/7f82ozjWK1'}
-      style={'w-40 md:w-64 px-5 py-3 mt-3 text-blue-500 border-2 border-blue-500 rounded-full hover:text-white hover:bg-blue-500'}
-      >Learn Trade📈</Button>
       {/* <button 
       onClick={() => Swal.fire(
         'Cooming Soon',
