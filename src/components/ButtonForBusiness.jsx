@@ -13,7 +13,7 @@ const ButtonForBusiness = () => {
                         <p className="animate-[wiggle_1s_ease-in-out_infinite]">✌️</p>
                     </div>
                     <a href="https://t.me/ikhwanhsn" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><FaTelegram className='mt-1 scale-125'/>Telegram</a>
-                    <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=ikhwanulhusna111@gmail.com" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><MdEmail className='mt-1 scale-125'/>Email</a>
+                    <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=smartweb3.id@gmail.com" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><MdEmail className='mt-1 scale-125'/>Email</a>
                 </form>
                 <form method="dialog" className="modal-backdrop">
                 <button>close</button>
