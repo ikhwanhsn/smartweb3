@@ -13,8 +13,11 @@ const ButtonBuyCrypto = () => {
                         <h1 className="">Buy Crypto</h1>
                         <p className="animate-[wiggle_1s_ease-in-out_infinite]">🚀</p>
                     </div>
-                    <a href="https://accounts.binance.info/register?ref=419294594" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><SiBinance className='mt-1 scale-125'/>Binance</a>
+                    <h3>Global Exchange Top 1🏆</h3>
+                    <a href="https://accounts.binance.info/register?ref=419294594" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><SiBinance className='mt-1 scale-125 '/>Binance</a>
+                    <h3>Token Micin Finder for 100x🔍</h3>
                     <a href="https://www.lbank.com/login/?icode=13IZ2" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><IoLogoBitcoin className='mt-1 scale-125'/>LBank</a>
+                    <h3>Send Crypto to Your Wallet 0% Fee💰</h3>
                     <a href="https://t.me/Kedai_CryptoBot?start=r963912641" className="flex items-center justify-center w-full gap-2 px-5 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600" target="_blank"><FaRobot className='mt-1 scale-125'/>Bot Telegram</a>
                 </form>
                 <form method="dialog" className="modal-backdrop">
