@@ -19,19 +19,19 @@ const ButtonCourse = () => {
             </button>
           </form>
           <h3 className="text-lg font-bold">Mastering Dex</h3>
-          <section className="w-full mt-2 border-4 border-black rounded-md shadow-md">
+          <section className="w-full px-1 mt-2 bg-black border-2 border-black rounded-md shadow-md md:px-0 md:border-4">
             <iframe
               src="https://drive.google.com/file/d/1fihxMDb49b64n3ppMe8d1AKj2AegAY_A/preview"
               width="640"
               height="480"
               allow="autoplay"
-              className="w-full h-64"
+              className="w-full h-44 md:h-64"
             ></iframe>
           </section>
           <Button
             href={"https://lynk.id/smartweb3.id/vv8X8wJ"}
             style={
-              "w-40 md:w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600"
+              "w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600"
             }
           >
             Buy Course{" "}
