@@ -19,12 +19,15 @@ const ButtonCourse = () => {
             </button>
           </form>
           <h3 className="text-lg font-bold">Mastering Dex</h3>
-          <section className="w-full px-1 mt-2 bg-black border-2 border-black rounded-md shadow-md md:px-0 md:border-4">
+          <section className="w-full px-0 mt-2 bg-black border-2 border-black rounded-md shadow-md md:border-4">
             <iframe
-              src="https://drive.google.com/file/d/1fihxMDb49b64n3ppMe8d1AKj2AegAY_A/preview"
-              width="640"
-              height="480"
-              allow="autoplay"
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/0YR0WsLWKXM?si=Wmk9i6FAJnEFyeB9"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
               className="w-full h-44 md:h-64"
             ></iframe>
           </section>
