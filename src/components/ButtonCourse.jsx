@@ -3,7 +3,6 @@ import Button from "./Button";
 const ButtonCourse = () => {
   return (
     <section>
-      {/* You can open the modal using document.getElementById('ID').showModal() method */}
       <button
         onClick={() => document.getElementById("my_modal_11").showModal()}
         className="w-40 px-5 py-3 mt-3 text-blue-500 normal-case border-2 border-blue-500 rounded-full md:w-64 hover:text-white hover:bg-blue-500"
@@ -13,7 +12,6 @@ const ButtonCourse = () => {
       <dialog id="my_modal_11" className="modal">
         <div className="modal-box">
           <form method="dialog">
-            {/* if there is a button in form, it will close the modal */}
             <button className="absolute btn btn-sm btn-circle btn-ghost right-2 top-2">
               ✕
             </button>
