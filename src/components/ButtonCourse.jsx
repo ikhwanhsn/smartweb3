@@ -30,7 +30,7 @@ const ButtonCourse = () => {
             ></iframe>
           </section>
           <Button
-            href={"https://lynk.id/smartweb3.id/vv8X8wJ"}
+            href={"https://sites.google.com/view/mastering-dex/halaman-muka"}
             style={
               "w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600"
             }
