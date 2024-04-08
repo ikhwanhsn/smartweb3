@@ -30,6 +30,14 @@ const ButtonCourse = () => {
             ></iframe>
           </section>
           <Button
+            href={"https://sites.google.com/view/dex-mastery/halaman-muka"}
+            style={
+              "w-64 px-5 py-3 mt-3 text-white bg-green-600 rounded-full hover:bg-green-700"
+            }
+          >
+            Free Tutorial
+          </Button>
+          <Button
             href={"https://sites.google.com/view/mastering-dex/halaman-muka"}
             style={
               "w-64 px-5 py-3 mt-3 text-white bg-blue-500 rounded-full hover:bg-blue-600"
