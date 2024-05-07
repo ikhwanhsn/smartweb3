@@ -9,7 +9,7 @@ const ProfilImage = () => {
         alt=""
         width={120}
         height={120}
-        className="mx-auto transition-all rounded-full shadow-lg hover:scale-105 shadow-gray-200"
+        className="mx-auto transition-all rounded-full shadow-md hover:scale-105 shadow-gray-200"
       />
     </div>
   );
