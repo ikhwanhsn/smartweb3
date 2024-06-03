@@ -7,7 +7,7 @@ const ButtonCourse = () => {
         onClick={() => document.getElementById("my_modal_11").showModal()}
         className="w-40 px-5 py-3 mt-3 text-blue-500 normal-case border-2 border-blue-500 rounded-full md:w-64 hover:text-white hover:bg-blue-500"
       >
-        📚Course
+        📚Mastering Dex
       </button>
       <dialog id="my_modal_11" className="modal">
         <div className="modal-box">
